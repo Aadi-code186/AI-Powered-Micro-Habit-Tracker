@@ -1,5 +1,4 @@
-# Micro Habit Tracker and Optimizer
-
+# AI Powered Micro Habit Tracker
 ## Overview
 A streamlined habit tracking application with AI-powered insights and analytics to help users build and maintain positive habits.
 
