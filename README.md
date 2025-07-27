@@ -32,4 +32,4 @@ This project is currently being enhanced with additional AI features and optimiz
 - Enhanced prediction models
 - More detailed habit analytics
 - Mobile app integration
-- Social sharing features# micro_habit_tracker_with_AI_optimiser
+- Social sharing features# AI-Powered-Micro-Habit-Tracker
